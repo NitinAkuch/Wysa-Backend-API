@@ -50,7 +50,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install express mongoose helmet
+  npm install express mongoose helmet nodemon dotenv
 ```
 
 Start the server
